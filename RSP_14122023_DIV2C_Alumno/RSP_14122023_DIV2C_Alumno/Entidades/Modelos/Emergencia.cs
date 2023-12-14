@@ -1,4 +1,5 @@
 ﻿using Entidades.Enumerados;
+using Entidades.MetodosDeExtension;
 
 namespace Entidades.Modelos
 {
@@ -20,7 +21,7 @@ namespace Entidades.Modelos
         public double EstadoEmergencia { get => this.estadoEmergencia; }
         public static double TiempoLimiteEnSegundos { get => Emergencia.tiempoLimiteEnSegundos; }
 
-        public double SegundosTranscurridos { get; }
+        public double SegundosTranscurridos { get { return TiempoExtension.SegundosTranscurridos(Inicio); } }
 
         static Emergencia()
         {

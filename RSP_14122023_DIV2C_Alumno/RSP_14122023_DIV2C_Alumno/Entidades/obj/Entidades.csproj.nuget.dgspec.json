@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Facultad\\5-Profesorado\\2023 - DIV C\\2C\\Proyectos\\Parciales\\Sin Uso\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "E:\\Facultad\\5-Profesorado\\2023 - DIV C\\2C\\Proyectos\\Parciales\\Sin Uso\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Facultad\\5-Profesorado\\2023 - DIV C\\2C\\Proyectos\\Parciales\\Sin Uso\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "E:\\Facultad\\5-Profesorado\\2023 - DIV C\\2C\\Proyectos\\Parciales\\Sin Uso\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "E:\\Facultad\\5-Profesorado\\2023 - DIV C\\2C\\Proyectos\\Parciales\\Sin Uso\\RSP_14122023_DIV2C_Alumno\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\aleef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\aleef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
