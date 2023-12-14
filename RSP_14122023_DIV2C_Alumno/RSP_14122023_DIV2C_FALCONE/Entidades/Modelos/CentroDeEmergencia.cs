@@ -74,7 +74,7 @@ namespace Entidades.Modelos
 
                 Thread.Sleep(3000);
                 servidorPublico.Atender(this.emergenciaEnCurso);
-                servidorPublico
+                this.emergenciasAtendidas.Add(this.emergenciaEnCurso);
             
             });
 

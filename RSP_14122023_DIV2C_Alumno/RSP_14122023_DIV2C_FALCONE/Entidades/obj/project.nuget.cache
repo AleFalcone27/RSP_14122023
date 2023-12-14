@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzH8AjPpi3OPSOSyHcopA2BRemDF8jnWaNkiSMCX8k24ZUkoBLbn5QCDYUSSSVCt/mqwAu128ifdGZqO5JeMnQ==",
+  "dgSpecHash": "WXUEjR453Ubhk53576OxE6cKXkqYqCewcc82XMtHCB+MsJVYRUmtjIAi+Y4DHvzTrDcowIo9l1Lr3IfFqeuzKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_FALCONE\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleef\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\aleef\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

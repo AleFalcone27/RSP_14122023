@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_FALCONE\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_FALCONE\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\aleef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_Alumno\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\aleef\\OneDrive\\Escritorio\\RSP_14122023\\RSP_14122023_DIV2C_Alumno\\RSP_14122023_DIV2C_FALCONE\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleef\\AppData\\Roaming\\NuGet\\NuGet.Config",
